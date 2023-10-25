@@ -7,6 +7,6 @@
 - 👯 Still millions miles to go...
 - 🤔 I’m looking for help with full stack development 
 - 💬 Want to explore 
-- 📫 udeeandres2022@gmail.com
+- 📫 udeeandres2020@gmail.com
 
 
