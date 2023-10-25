@@ -2,7 +2,7 @@
 
 
 -⚡ Hello Friends!!
-- 🔭 I’m current pursuit Computer Science in Kurukshetra University 
+- 🔭 I’m currently pursuing Computer Science in Kurukshetra University 
 - 🌱 I’m currently learning ...Web Development, full stack 
 - 👯 Still millions miles to go...
 - 🤔 I’m looking for help with full stack development 
